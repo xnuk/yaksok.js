@@ -2,6 +2,7 @@
   "name": "yaksok",
   "version": "0.3.11",
   "description": "yaksok toolkit",
+
   "main": "dist/yaksok.min.js",
   "scripts": {
     "build-production": "NODE_ENV=production npm run build:yaksok",
